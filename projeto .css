@@ -1,0 +1,56 @@
+body {
+width: 95%;
+background-image: url("bg.jpg");
+background-position:;
+font-family: 'Roboto', sans-serif;
+line-height: 1;
+color:#ffffff;
+margin:auto;
+}
+
+.nome, .sobre {
+text-align: center;
+line-height: 1.7;
+width: 95%;
+
+}
+
+
+
+.gostos{
+text-align: center;
+width: 95%;
+line-height: 1.5;
+}
+
+#leitura, #jogos, #esportes {
+
+   border: 5px solid black;
+
+
+}
+
+.contato{
+ 
+	text-align: left;
+}
+.detalhes{
+	text-align: left;
+}
+
+main {
+
+	background: #00000042;
+}
+
+.eu {
+    
+
+   width: 95px;
+  
+   line-height: 1.5;
+}
+#id {
+	background-color: gray;
+	text-align: center;
+}
